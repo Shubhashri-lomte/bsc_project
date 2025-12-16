@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>BSC Testnet Wallet Operations</title>
+</head>
+<body>
+    <h1>BSC Testnet Wallet Operations API</h1>
+    <p>Django server is running and Web3 logic is initialized.</p>
+    <p>Access the API endpoints using tools like Postman (e.g., POST to /api/wallet/generate/).</p>
+    <p>Example Token Address: {{ example_token_address }}</p>
+
+    <h2>API Endpoints:</h2>
+    <ul>
+        <li>POST /api/wallet/generate/ (Generates Mnemonic, Key, Address)</li>
+        <li>POST /api/bnb/transfer/ (Sends native tBNB)</li>
+        <li>POST /api/token/transfer/ (Sends BEP-20 Tokens)</li>
+    </ul>
+
+    <p style="color:red;">**NOTE**: The FATAL Web3 error on startup means API calls requiring network access may fail, but the Django server is now stable.</p>
+</body>
+</html>
