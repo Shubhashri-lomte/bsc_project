@@ -1,19 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c69d79f-293e-4495-8ca2-8851a98a3d18" name="Changes" comment="" />
+    <list default="true" id="5c69d79f-293e-4495-8ca2-8851a98a3d18" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/bsc_project/bsc_project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bsc_project/bsc_project/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bsc_project/bsc_project/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bsc_project/bsc_project/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bsc_project/bsc_project/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bsc_project/bscapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bsc_project/bscapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bsc_project/bscapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bsc_project/bscapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bsc_project/bscapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bsc_project/bscapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bsc_project/bscapp/templates/bscapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bsc_project/bscapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bsc_project/bscapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bsc_project/bscapp/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bsc_project/bscapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bsc_project/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bsc_project/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/bsc_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bsc_project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/bsc_project" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Shubhashri-lomte"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Shubhashri-lomte/bbvv.git",
+    "accountId": "5eb9fca1-b616-4446-b912-3eb96f65f979"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="36rjWDYo2sts0LiRYxJG6gzPQM4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,12 +70,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "master"
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shubhashri\PycharmProjects.json\bsc_project\bsc_project\bscapp\templates\bscapp" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -43,5 +100,16 @@
       <updated>1765771617082</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
